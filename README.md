@@ -11,7 +11,6 @@ I think that a good programmer must have soft skills such as comunication and te
 - :hearts: Python, Docker, SQL, Starlette, and AWS.
 - ✨ APIs promoter.
 - :unicorn: I am always thinking in architecture, testing, and documentation.
-- :office: I'm working in IT-Seekers for #Aeromexico.
 - :sunglasses: Math Lover.
 - :star: Solver.
 - :brain: Learning AI.
